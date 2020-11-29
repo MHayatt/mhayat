@@ -6,7 +6,7 @@ title: Munawar Hayat
 superuser: true
 
 # Role/position
-role: Senior Research Fellow (DECRA Fellow)
+role: Senior Research Fellow  
 
 # Organizations/Affiliations
 organizations:
