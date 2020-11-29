@@ -21,11 +21,10 @@ date_format = "Jan 2006"
   title = "Senior Lecturer"
   company = "Monash University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Melbourne, Australia"
+  date_start = "2020-11-01"
   date_end = ""
   description = """
-  Responsibilities include: []
   
 
   """
@@ -36,7 +35,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Canberra"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_end = "2016-06-30"
   description = []# """Taught electronic engineering and researched semiconductor physics."""
 
 +++
