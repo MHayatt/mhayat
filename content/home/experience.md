@@ -24,7 +24,6 @@ date_format = "Jan 2006"
   location = "Melbourne, Australia"
   date_start = "2020-11-01"
   date_end = ""
-  description = []
 
 
 [[experience]]
@@ -34,7 +33,6 @@ date_format = "Jan 2006"
   location = "Abu Dhabi"
   date_start = "2018-07-1"
   date_end = "2020-10-30"
-  description = []
 
 
 [[experience]]
@@ -44,6 +42,5 @@ date_format = "Jan 2006"
   location = "Canberra"
   date_start = "2016-01-01"
   date_end = "2018-06-30"
-  description = []
 
 +++
