@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   title = "Senior Scientist"
   company = "IIAI"
   company_url = ""
-  location = "Abu Dhabi"
+  location = "Abu Dhabi, UAE"
   date_start = "2018-07-01"
   date_end = "2020-10-30"
 
