@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Munawar Hayat
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Research Fellow (DECRA Fellow)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Monash University
+  url: "https://www.monash.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computer Vision, Machine Learning and Deep Learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Deep Learning
+- Affective Computing
 
 education:
   courses:
   - course: PhD in Computer Science
     institution: The University of Western Austraia
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    year: 2016
+  - course: Masters in Space Science and Technology
+    institution: Luleå Tekniska Universitet
+    year: 2011
+  - course: BSc in Engineering
+    institution: National University of Sciences & Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
