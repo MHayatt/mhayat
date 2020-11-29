@@ -69,6 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Senior Lecturer at Faculty of IT, Monash University, Melbourne, Australia. I am an ARC DECRA fellow. I completed my PhD in Computer Vision from The University of Western Australia (UWA). My PhD thesis received multiple awards including the prestigious Robert Street Prize. My research interests are in computer vision, machine/deep learning, and affective computing.
