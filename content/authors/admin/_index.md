@@ -6,7 +6,7 @@ title: Munawar Hayat
 superuser: true
 
 # Role/position
-role: Senior Research Fellow  
+role: Senior Lecturer  
 
 # Organizations/Affiliations
 organizations:
