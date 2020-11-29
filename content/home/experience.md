@@ -25,9 +25,17 @@ date_format = "Jan 2006"
   date_start = "2020-11-01"
   date_end = ""
   description = []
-  
 
-  """
+
+[[experience]]
+  title = "Senior Scientist"
+  company = "IIAI"
+  company_url = ""
+  location = "Abu Dhabi"
+  date_start = "2018-07-1"
+  date_end = "2020-10-30"
+  description = []
+
 
 [[experience]]
   title = "Assistant Professor"
@@ -35,7 +43,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Canberra"
   date_start = "2016-01-01"
-  date_end = "2016-06-30"
-  description = []# """Taught electronic engineering and researched semiconductor physics."""
+  date_end = "2018-06-30"
+  description = []
 
 +++
