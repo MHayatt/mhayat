@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Melbourne, Australia"
   date_start = "2020-11-01"
   date_end = ""
-  description = """
+  description = []
   
 
   """
