@@ -23,8 +23,8 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Computer Science
+    institution: The University of Western Austraia
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
