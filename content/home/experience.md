@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   company = "IIAI"
   company_url = ""
   location = "Abu Dhabi"
-  date_start = "2018-07-1"
+  date_start = "2018-07-01"
   date_end = "2020-10-30"
 
 
