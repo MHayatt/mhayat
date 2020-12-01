@@ -194,9 +194,9 @@ plugins_js  = []
   citation_style = "apa"
 
   # Link the title of the publication to the publication
-  links_title = false
+  # links_title = false
   # Link the authors of the publication to the list of publication made by this author
-  links_authors = false
+  # links_authors = false
   disable_links_title = true
   disable_links_authors = true
 
