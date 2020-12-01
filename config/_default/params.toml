@@ -197,6 +197,8 @@ plugins_js  = []
   links_title = false
   # Link the authors of the publication to the list of publication made by this author
   links_authors = false
+  disable_links_title = true
+  disable_links_authors = true
 
 # Configuration of project pages.
 [projects]
