@@ -11,7 +11,7 @@ featured = true
 projects = []
 slides = ""
 url_pdf = "/publication/zamir2020learning/manuscript.pdf"
-url_code = "https://github.com/swz30/MIRNet"
+url_code: https://github.com/swz30/MIRNet
 url_dataset = ""
 url_poster = ""
 url_slides = ""
