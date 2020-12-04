@@ -49,7 +49,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com.au/citations?user=Mx8MbWYAAAAJ&hl=en
 
-  - icoc: linkedin
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/munawar-hayat-06432519/
   
