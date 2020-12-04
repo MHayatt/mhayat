@@ -19,14 +19,15 @@ bio: My research interests include Computer Vision, Machine Learning and Deep Le
 interests:
 - Computer Vision
 - Deep Learning
+- Machine Learning
 - Affective Computing
 
 education:
   courses:
   - course: PhD in Computer Science
     institution: The University of Western Austraia
-    year: 2016
-  - course: Masters in Space Science and Technology
+    year: 2015
+  - course: Masters in Space Science
     institution: Luleå Tekniska Universitet
     year: 2011
   - course: BSc in Engineering
@@ -47,6 +48,11 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.au/citations?user=Mx8MbWYAAAAJ&hl=en
+
+  - icoc: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/munawar-hayat-06432519/
+  
 #- icon: github
  # icon_pack: fab
  # link: https://github.com/gcushen
@@ -69,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-<p style='text-align: justify;'>  I am a Senior Lecturer at Faculty of IT, Monash University, Melbourne, Australia. I am an ARC DECRA fellow. I completed my PhD in Computer Vision from The University of Western Australia (UWA). My PhD thesis received multiple awards including the prestigious Robert Street Prize. My research interests are in computer vision, machine/deep learning, and affective computing. </p>
+<p style='text-align: justify;'>  I am a Senior Lecturer and ARC DECRA fellow at Faculty of IT, Monash University, Melbourne, Australia. I completed my PhD in Computer Vision from The University of Western Australia (UWA). My PhD thesis received multiple awards including the prestigious [Robert Street Prize](https://www.postgraduate.uwa.edu.au/students/funding/prizes/robert-street-prize). My research interests are in computer vision, machine/deep learning, and affective computing. </p>
