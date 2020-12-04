@@ -1,5 +1,5 @@
 +++
-title = "Learning Enriched Features for Real Image Restoration and Enhancement"
+title: "Learning Enriched Features for Real Image Restoration and Enhancement"
 date = "2020-08-01"
 authors = ["S. Waqas Zamir","A. Arora","S. Khan","M. Hayat","F. Shahbaz Khan","M. Yang","L. Shao"]
 tags = []
