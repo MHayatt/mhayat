@@ -48,10 +48,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.au/citations?user=Mx8MbWYAAAAJ&hl=en
-
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/munawar-hayat-06432519/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/munawar-hayat-06432519/
   
 #- icon: github
  # icon_pack: fab
