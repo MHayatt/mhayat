@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-<p style='text-align: justify;'>  I am a Senior Lecturer and ARC DECRA fellow at Faculty of IT, Monash University, Melbourne, Australia. I completed my PhD in Computer Vision from The University of Western Australia (UWA). My PhD thesis received multiple awards including the prestigious [Robert Street Prize](https://www.postgraduate.uwa.edu.au/students/funding/prizes/robert-street-prize). My research interests are in computer vision, machine/deep learning, and affective computing. </p>
+<p style='text-align: justify;'>  I am a Senior Lecturer and ARC DECRA fellow at Faculty of IT, Monash University, Melbourne, Australia. I completed my PhD in Computer Vision from The University of Western Australia (UWA). My PhD thesis received multiple awards including the prestigious <a href="https://www.postgraduate.uwa.edu.au/students/funding/prizes/robert-street-prize" target="_top">Robert Street Prize</a>. My research interests are in computer vision, machine/deep learning, and affective computing. </p>
