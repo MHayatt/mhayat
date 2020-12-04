@@ -1,5 +1,5 @@
 ---
-title: "Learning Enriched Features for Real Image Restoration and Enhancement"
+title= "Learning Enriched Features for Real Image Restoration and Enhancement"
 date = "2020-08-01"
 authors = ["S. Waqas Zamir","A. Arora","S. Khan","M. Hayat","F. Shahbaz Khan","M. Yang","L. Shao"]
 tags = []
@@ -11,7 +11,7 @@ featured = true
 projects = []
 slides = ""
 url_pdf = "/publication/zamir2020learning/manuscript.pdf"
-url_code: https://github.com/swz30/MIRNet
+url_code= "https://github.com/swz30/MIRNet"
 url_dataset = ""
 url_poster = ""
 url_slides = ""
