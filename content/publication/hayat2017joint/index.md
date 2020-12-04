@@ -7,7 +7,8 @@ publication_types = ["1"]
 publication = "_The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_"
 publication_short = ""
 summary = ""
-featured = false
+summary = "<p style='text-align: justify;'> </p>"
+featured = true
 projects = []
 slides = ""
 url_pdf = "/publication/hayat2017joint/manuscript.pdf"

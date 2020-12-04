@@ -6,8 +6,8 @@ tags = []
 publication_types = ["1"]
 publication = "_Proceedings of the IEEE International Conference on Computer Vision_"
 publication_short = ""
-summary = ""
-featured = false
+summary = "<p style='text-align: justify;'> </p>"
+featured = true
 projects = []
 slides = ""
 url_pdf = "/publication/hayat2019gaussian/manuscript.pdf"

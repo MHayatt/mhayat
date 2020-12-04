@@ -6,8 +6,8 @@ tags = []
 publication_types = ["2"]
 publication = "_International Journal of Computer Vision_"
 publication_short = ""
-summary = ""
-featured = false
+summary = "<p style='text-align: justify;'> </p>"
+featured = true
 projects = []
 slides = ""
 url_pdf = "/publication/hayat2017empowering/manuscript.pdf"
