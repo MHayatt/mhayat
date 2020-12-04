@@ -26,13 +26,13 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "S"
+font_size = "M"
 
 ############################
 ## Basic Info
 ############################
 
-# Website type
+# Website typeg
 #   Improve how search engines understand your site.
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
