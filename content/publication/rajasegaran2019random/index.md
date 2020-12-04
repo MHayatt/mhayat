@@ -6,7 +6,7 @@ tags = []
 publication_types = ["1"]
 publication = "_Advances in Neural Information Processing Systems_"
 publication_short = ""
-summary = ""
+summary = "<p style='text-align: justify;'> </p>"
 featured = false
 projects = []
 slides = ""

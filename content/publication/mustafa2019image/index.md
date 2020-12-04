@@ -6,7 +6,7 @@ tags = []
 publication_types = ["2"]
 publication = "_IEEE Transactions on Image Processing_"
 publication_short = ""
-summary = ""
+summary = "<p style='text-align: justify;'> </p>"
 featured = false
 projects = []
 slides = ""

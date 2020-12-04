@@ -6,8 +6,8 @@ tags = []
 publication_types = ["2"]
 publication = "_IEEE Transactions on Neural Networks and Learning Systems_"
 publication_short = ""
-summary = ""
-featured = false
+summary = "<p style='text-align: justify;'> </p>"
+featured = true
 projects = []
 slides = ""
 url_pdf = "/publication/khan2017cost/manuscript.pdf"

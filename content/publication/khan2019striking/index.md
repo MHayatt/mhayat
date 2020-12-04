@@ -6,7 +6,7 @@ tags = []
 publication_types = ["1"]
 publication = "_Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition_"
 publication_short = ""
-summary = ""
+summary = "<p style='text-align: justify;'> </p>"
 featured = false
 projects = []
 slides = ""
