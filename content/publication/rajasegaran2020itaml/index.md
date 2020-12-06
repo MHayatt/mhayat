@@ -22,5 +22,6 @@ highlight = true
 [image]
 image = ""
     caption = ""
+    preview_only: true
 +++
 
