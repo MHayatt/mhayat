@@ -23,6 +23,7 @@ highlight = true
 image = ""
     caption = ""
     focal_point= "Center" 
+{{ $image := .Fill "918x517 q90" }}
 +++
 
-{{ $image := .Fill "918x517 q90" }}
+
