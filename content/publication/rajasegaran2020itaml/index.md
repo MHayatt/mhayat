@@ -20,7 +20,7 @@ url_video = ""
 math = true
 highlight = true
 [image]
-image = "/publication/rajasegaran2020itaml/block.png"
-caption = ""
+image = 
+    caption = ""
 +++
 
