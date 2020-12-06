@@ -36,7 +36,7 @@ subtitle = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -50,10 +50,12 @@ subtitle = ""
  css_class = ""
 +++
 
-## I am actively looking for PhD students at Monash. 
+## I am actively looking for PhD candidates at Monash University. If you're interested, please drop me an email with your detailed CV.
 
-- Awarded ARC DECRA Fellowship 2020-2022, $425, 613.
-- Received funding for ARC Discovery Project 2019-2021, $380, 000
+
+
+- Awarded ARC DECRA Fellowship 2021-2023 $425, 613.
+- Received funding for ARC Discovery Project 2019-2021 $380, 000
 - A Paper accepted in TPAMI
 - 3 Papers accepted in CVPR 2020
 - Recent work in NeurIPS 2019
