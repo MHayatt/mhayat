@@ -20,7 +20,7 @@ url_video = ""
 math = true
 highlight = true
 [image]
-image = 
+image = ""
     caption = ""
 +++
 
