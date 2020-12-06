@@ -22,6 +22,6 @@ highlight = true
 [image]
 image = ""
     caption = ""
-    preview_only= true
+    focal_point= "Center" 
 +++
 
