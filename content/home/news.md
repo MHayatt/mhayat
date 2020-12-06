@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## I am actively looking for PhD candidates at Monash University. If you're interested, please drop me an email with your detailed CV.
+** I am actively looking for PhD candidates at Monash University. If you're interested, please drop me an email with your detailed CV.**
 
 
 
