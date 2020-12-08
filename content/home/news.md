@@ -49,6 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
++++
 
 ** I am actively looking for PhD candidates at Monash University. If you're interested, please drop me an email with your detailed CV. **
 
@@ -63,4 +64,3 @@ subtitle = ""
 - 2 Papers accepted in CVPR 2019
 
 
-+++
