@@ -17,7 +17,7 @@ url_poster = ""
 url_slides = ""
 url_source = ""
 url_video = "https://www.youtube.com/watch?v=6xSzRjAodv4"
-[[url_custom]]
+[url_custom]
   name= "Supplementary Material"
   url= "/publication/zamir2020learning/Supp.pdf"
 math = true
