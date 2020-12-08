@@ -6,7 +6,7 @@ title: Munawar Hayat
 superuser: true
 
 # Role/position
-role: Senior Lecturer  
+role: Senior Lecturer, ARC DECRA Fellow  
 
 # Organizations/Affiliations
 organizations:
