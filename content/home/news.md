@@ -54,11 +54,11 @@ subtitle = ""
 
 
 
-- Awarded ARC DECRA Fellowship 2021-2023 $425, 613.
-- Received funding for ARC Discovery Project 2019-2021 $380, 000
-- A Paper accepted in TPAMI
-- 3 Papers accepted in CVPR 2020
-- Recent work in NeurIPS 2019
+- Awarded ARC DECRA Fellowship 2021-2023 $425,613.
+- Received funding for ARC Discovery Project 2019-2021 $380,000.
+- See our recent paper on adverserial robustness in TPAMI
+- 3 Papers accepted in CVPR 2020.
+- Checkout our work in NeurIPS 2019
 - 2 Papers accepted in ICCV 2019
 - 2 Papers accepted in CVPR 2019
 
