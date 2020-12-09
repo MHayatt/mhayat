@@ -20,10 +20,7 @@ url_video = "https://www.youtube.com/watch?v=41XKXY--7_E"
 math = true
 highlight = true
 [image]
-placement = 1
-focal_point= "Smart"
 image = ""
 caption = ""
 +++
-{{ $image := .Fill "918x517 q90" }}
 
