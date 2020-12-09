@@ -70,7 +70,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   resampleFilter = "lanczos"
   quality = 75
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
-  {{ $image := .Fill "918x517 q90" }}
+  Fill = "918x517 q90" 
 
 
 # Taxonomies.
