@@ -25,4 +25,5 @@ focal_point= "Smart"
 image = ""
 caption = ""
 +++
+{{ $image := .Fill "918x517 q90" }}
 
