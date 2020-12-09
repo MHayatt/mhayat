@@ -20,7 +20,7 @@ url_video = "https://www.youtube.com/watch?v=41XKXY--7_E"
 math = true
 highlight = true
 [image]
-placement: 1
+placement = 1
 image = ""
 caption = ""
 +++
