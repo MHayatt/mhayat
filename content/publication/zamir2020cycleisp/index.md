@@ -21,6 +21,7 @@ math = true
 highlight = true
 [image]
 placement = 1
+focal_point= "Smart"
 image = ""
 caption = ""
 +++
