@@ -1,7 +1,7 @@
 +++
 title = "Random path selection for continual learning"
 date = "2019-12-01"
-authors = ["J. Rajasegaran","M. Hayat","S. H Khan","F. Shahbaz Khan","L. Shao"]
+authors = ["J. Rajasegaran","M. Hayat","S. H Khan","F. Khan","L. Shao"]
 tags = []
 publication_types = ["1"]
 publication = "_Advances in Neural Information Processing Systems_ **(NeurIPS 2019)**"

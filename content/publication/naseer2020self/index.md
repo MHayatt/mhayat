@@ -1,7 +1,7 @@
 +++
 title = "A Self-supervised Approach for Adversarial Robustness"
 date = "2020-06-01"
-authors = ["M. Naseer","S. Khan","M. Hayat","F. Shahbaz Khan","F. Porikli"]
+authors = ["M. Naseer","S. Khan","M. Hayat","F. Khan","F. Porikli"]
 tags = []
 publication_types = ["1"]
 publication = "_Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition_ **(CVPR 2020)**"

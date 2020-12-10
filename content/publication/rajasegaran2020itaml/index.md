@@ -1,7 +1,7 @@
 +++
 title = "iTAML: An Incremental Task-Agnostic Meta-learning Approach"
 date = "2020-06-01"
-authors = ["J. Rajasegaran","S. Khan","M. Hayat","F. Shahbaz Khan","M. Shah"]
+authors = ["J. Rajasegaran","S. Khan","M. Hayat","F. Khan","M. Shah"]
 tags = []
 publication_types = ["1"]
 publication = "_Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition_ **(CVPR 2020)**"
