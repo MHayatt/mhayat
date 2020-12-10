@@ -1,7 +1,7 @@
 +++
 title = "Striking the right balance with uncertainty"
 date = "2019-06-01"
-authors = ["S. Khan","M. Hayat","S. Waqas Zamir","J. Shen","L. Shao"]
+authors = ["S. Khan","M. Hayat","S. Zamir","J. Shen","L. Shao"]
 tags = []
 publication_types = ["1"]
 publication = "_Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition_ **(CVPR 2019)**"

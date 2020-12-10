@@ -1,7 +1,7 @@
 +++
 title = "Gaussian affinity for max-margin class imbalanced learning"
 date = "2019-12-01"
-authors = ["M. Hayat","S. Khan","S. Waqas Zamir","J. Shen","L. Shao"]
+authors = ["M. Hayat","S. Khan","S. Zamir","J. Shen","L. Shao"]
 tags = []
 publication_types = ["1"]
 publication = "_Proceedings of the IEEE International Conference on Computer Vision_ **(ICCV 2019)**"

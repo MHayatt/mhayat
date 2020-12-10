@@ -1,7 +1,7 @@
 +++
 title= "Learning Enriched Features for Real Image Restoration and Enhancement"
 date = "2020-08-01"
-authors = ["S. Waqas Zamir","A. Arora","S. Khan","M. Hayat","F. Shahbaz Khan","M. Yang","L. Shao"]
+authors = ["S. Zamir","A. Arora","S. Khan","M. Hayat","F. Shahbaz Khan","M. Yang","L. Shao"]
 tags = []
 publication_types = ["1"]
 publication = "_European Conference on Computer Vision_ **(ECCV 2020)**"
