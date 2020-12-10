@@ -51,7 +51,7 @@ subtitle = ""
 
 +++
 
-**I am actively looking for PhD candidates at Monash University. If you're interested, please drop me an email with your detailed CV.**
+**I am currently looking for PhD students at Monash University. If you're interested, please drop me an email with your detailed CV.**
 
 
 
