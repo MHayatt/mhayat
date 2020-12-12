@@ -57,9 +57,13 @@ subtitle = ""
 
 - Awarded ARC DECRA Fellowship 2021-2023 $425,613.
 - Received funding for ARC Discovery Project 2019-2021 $380,000.
-- See our recent [paper](https://mhayat.netlify.app/publication/mustafa2020deeply/) on adverserial robustness in TPAMI.
-- 3 Papers accepted in CVPR 2020.
-- Checkout our [work](https://mhayat.netlify.app/publication/rajasegaran2019random/) in NeurIPS 2019.
+- See our recent work [Deeply Supervised Discriminative Learning for Adversarial Defense](https://mhayat.netlify.app/publication/mustafa2020deeply/) in IEEE TPAMI.
+- See our paper [Learning Enriched Features for Real Image Restoration and Enhancement](https://mhayat.netlify.app/publication/zamir2020learning/) in ECCV 2020.
+- See our paper titlled [A Self-supervised Approach for Adversarial Robustness
+](https://mhayat.netlify.app/publication/naseer2020self/) in CVPR 2020.
+- See our paper titlled [CycleISP: Real Image Restoration via Improved Data Synthesis](https://mhayat.netlify.app/publication/zamir2020cycleisp/) in CVPR 2020.
+- See our paper titlled [iTAML: An Incremental Task-Agnostic Meta-learning Approach](https://mhayat.netlify.app/publication/rajasegaran2020itaml/) in CVPR 2020.
+- Checkout [Random path selection for continual learning](https://mhayat.netlify.app/publication/rajasegaran2019random/) in NeurIPS 2019.
 - 2 Papers accepted in ICCV 2019.
 - 2 Papers accepted in CVPR 2019.
 
