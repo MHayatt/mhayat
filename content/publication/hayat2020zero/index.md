@@ -10,7 +10,7 @@ summary = "<p style='text-align: justify;'> The existing zero-shot detection app
 featured = true
 projects = []
 slides = ""
-url_pdf = "/publication/hayat2019gaussian/manuscript.pdf"
+url_pdf = "/publication/hayat2020zero/manuscript.pdf"
 url_code = "https://github.com/nasir6/zero_shot_detection"
 url_dataset = ""
 url_poster = ""
