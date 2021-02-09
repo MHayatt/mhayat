@@ -56,7 +56,7 @@ subtitle = ""
 
 
 - Awarded ARC DECRA Fellowship 2021-2023 $425,613.
-- Received funding for ARC Discovery Project 2019-2021 $380,000.
+- Received funding from Australian Reserch Council on a Discovery Project 2019-2021 $380,000.
 - See our recent work [Deeply Supervised Discriminative Learning for Adversarial Defense](https://mhayat.netlify.app/publication/mustafa2020deeply/) in IEEE TPAMI.
 - See our paper [Learning Enriched Features for Real Image Restoration and Enhancement](https://mhayat.netlify.app/publication/zamir2020learning/) in ECCV 2020.
 - See our paper titled [A Self-supervised Approach for Adversarial Robustness
