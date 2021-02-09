@@ -1,6 +1,6 @@
 +++
-title = "Gaussian affinity for max-margin class imbalanced learning"
-date = "2019-12-01"
+title = "Synthesizing the Unseen for Zero-shot Object Detection"
+date = "2020-12-01"
 authors = ["N. Hayat","M. Hayat", "S. Rahman", "S. Khan","S. Zamir","F. Khan"]
 tags = []
 publication_types = ["1"]
