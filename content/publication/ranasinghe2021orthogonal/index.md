@@ -1,6 +1,6 @@
 +++
 title = "Orthogonal Projection Loss"
-date = "2021-10-01"
+date = "2021-08-01"
 authors = ["K. Ranasinghe", "M. Naseer", "M. Hayat", "S. H. Khan", "F. S. Khan"]
 tags = []
 publication_types = ["1"]

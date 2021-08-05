@@ -1,6 +1,6 @@
 +++
 title = "D2-Net: Weakly-Supervised Action Localization via Discriminative Embeddings and Denoised Activations"
-date = "2021-10-01"
+date = "2021-08-01"
 authors = ["S. Narayan", "H. Cholakkal", "M. Hayat", "F. Khan", "M. Yang", "L. Shao"]
 tags = []
 publication_types = ["1"]
