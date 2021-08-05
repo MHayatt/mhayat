@@ -1,7 +1,7 @@
 +++
 title = "Orthogonal Projection Loss"
 date = "2021-10-01"
-authors = ["A. Mustafa","S. Khan","M. Hayat","R. Goecke","J. Shen","L. Shao"]
+authors = [K. Ranasinghe, M. Naseer, M. Hayat, S. H. Khan and F. S. Khan]
 tags = []
 publication_types = ["1"]
 publication = "_Proceedings of the IEEE International Conference on Computer Vision_ **(ICCV 2021)**"
@@ -11,7 +11,7 @@ Deep neural networks have achieved remarkable performance on a range of classifi
 featured = true
 projects = []
 slides = ""
-url_pdf = "/publication/ranasinghe2021orthogonal/manuscript.pdf"
+url_pdf = "https://arxiv.org/abs/2103.14021"
 url_code = "https://github.com/kahnchana/opl"
 url_dataset = ""
 url_poster = ""
