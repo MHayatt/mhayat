@@ -1,6 +1,6 @@
 +++
 title = "On Generating Transferable Targeted Perturbations"
-date = "2019-10-01"
+date = "2021-10-01"
 authors = ["M. Naseer", "S. Khan", "M. Hayat", "F. Khan", "F. Porikli"]
 tags = []
 publication_types = ["1"]
