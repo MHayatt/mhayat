@@ -1,7 +1,7 @@
 +++
 title = "Orthogonal Projection Loss"
 date = "2021-10-01"
-authors = [K. Ranasinghe, M. Naseer, M. Hayat, S. H. Khan and F. S. Khan]
+authors = ["K. Ranasinghe", "M. Naseer", "M. Hayat", "S. H. Khan", "F. S. Khan"]
 tags = []
 publication_types = ["1"]
 publication = "_Proceedings of the IEEE International Conference on Computer Vision_ **(ICCV 2021)**"
