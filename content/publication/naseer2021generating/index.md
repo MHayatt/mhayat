@@ -1,7 +1,7 @@
 +++
 title = "On Generating Transferable Targeted Perturbations"
 date = "2019-10-01"
-authors = ["M. Naseer", "S. Khan", "M. Hayat", "F. Khan, "F. Porikli"]
+authors = ["M. Naseer", "S. Khan", "M. Hayat", "F. Khan", "F. Porikli"]
 tags = []
 publication_types = ["1"]
 publication = "_Proceedings of the IEEE International Conference on Computer Vision_ **(ICCV 2021)**"
