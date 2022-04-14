@@ -54,7 +54,8 @@ subtitle = ""
 **I am currently looking for PhD students at Monash University. If you're interested, please drop me an email with your detailed CV.**
 
 
-
+- Five Papers accepted in CVPR 2022
+- Three Papers accepted in ICCV 2021
 - Awarded ARC DECRA Fellowship 2021-2023 $425,613.
 - Received funding from Australian Reserch Council on a Discovery Project 2019-2021 $380,000.
 - See our recent work [Deeply Supervised Discriminative Learning for Adversarial Defense](https://mhayat.netlify.app/publication/mustafa2020deeply/) in IEEE TPAMI.
