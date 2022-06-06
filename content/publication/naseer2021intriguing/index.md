@@ -2,7 +2,6 @@
 title = "Intriguing Properties of Vision Transformers"
 date = "2021-08-01"
 authors = ["M. Naseer","K. Ranasinghe", "S. Khan", "M. Hayat", "F. Khan", "M. Yang"]
-
 tags = []
 publication_types = ["1"]
 publication = "_Advances in Neural Information Processing Systems_ **(NeurIPs 2021)**"
