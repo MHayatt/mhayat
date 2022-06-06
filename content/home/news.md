@@ -52,19 +52,20 @@ subtitle = ""
 +++
 
 # **I am currently looking for PhD students at Monash University. If you're interested, please drop me an email with your detailed CV.**
-- See our paper [Restormer: Efficient Transformer for High-Resolution Image Restoration](https://mhayat.netlify.app/publication/zamir2022restormer/) in CVPR 2022.
-- See our paper [Semantic-Aware Domain Generalized Segmentation](https://mhayat.netlify.app/publication/peng2022semantic/) in CVPR 2022.
-- See our paper [Towards Robust and Reproducible Active Learning Using Neural Networks](https://mhayat.netlify.app/publication/munjal2022torchal/) in CVPR 2022.
-- See our work [Learning Enriched Features for Fast Image Restoration and Enhancement](https://mhayat.netlify.app/publication/zamir2022mirnetv2/) in IEEE TPAMI.
+- Checkout [Restormer: Efficient Transformer for High-Resolution Image Restoration](https://mhayat.net/publication/zamir2022restormer/) in CVPR 2022.
+- See our paper [Semantic-Aware Domain Generalized Segmentation](https://mhayat.net/publication/peng2022semantic/) in CVPR 2022.
+- Checkout [Learning Enriched Features for Fast Image Restoration and Enhancement](https://mhayat.net/publication/zamir2022mirnetv2/) in IEEE TPAMI.
+- Checkout [Towards Robust and Reproducible Active Learning Using Neural Networks](https://mhayat.net/publication/munjal2022torchal/) in CVPR 2022.
+- See our work [Learning Enriched Features for Fast Image Restoration and Enhancement](https://mhayat.net/publication/zamir2022mirnetv2/) in IEEE TPAMI.
 - Awarded ARC DECRA Fellowship 2021-2023 $425,613.
 - Received funding from Australian Reserch Council on a Discovery Project 2019-2021 $380,000.
-- See our recent work [Deeply Supervised Discriminative Learning for Adversarial Defense](https://mhayat.netlify.app/publication/mustafa2020deeply/) in IEEE TPAMI.
-- See our paper [Learning Enriched Features for Real Image Restoration and Enhancement](https://mhayat.netlify.app/publication/zamir2020learning/) in ECCV 2020.
+- See our recent work [Deeply Supervised Discriminative Learning for Adversarial Defense](https://mhayat.net/publication/mustafa2020deeply/) in IEEE TPAMI.
+- See our paper [Learning Enriched Features for Real Image Restoration and Enhancement](https://mhayat.net/publication/zamir2020learning/) in ECCV 2020.
 - See our paper titled [A Self-supervised Approach for Adversarial Robustness
-](https://mhayat.netlify.app/publication/naseer2020self/) in CVPR 2020.
-- See our paper titled [CycleISP: Real Image Restoration via Improved Data Synthesis](https://mhayat.netlify.app/publication/zamir2020cycleisp/) in CVPR 2020.
-- See our paper titled [iTAML: An Incremental Task-Agnostic Meta-learning Approach](https://mhayat.netlify.app/publication/rajasegaran2020itaml/) in CVPR 2020.
-- Checkout [Random path selection for continual learning](https://mhayat.netlify.app/publication/rajasegaran2019random/) in NeurIPS 2019.
+](https://mhayat.net/publication/naseer2020self/) in CVPR 2020.
+- See our paper titled [CycleISP: Real Image Restoration via Improved Data Synthesis](https://mhayat.net/publication/zamir2020cycleisp/) in CVPR 2020.
+- See our paper titled [iTAML: An Incremental Task-Agnostic Meta-learning Approach](https://mhayat.net/publication/rajasegaran2020itaml/) in CVPR 2020.
+- Checkout [Random path selection for continual learning](https://mhayat.net/publication/rajasegaran2019random/) in NeurIPS 2019.
 - 2 Papers accepted in ICCV 2019.
 - 2 Papers accepted in CVPR 2019.
 
