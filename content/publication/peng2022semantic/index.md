@@ -16,7 +16,7 @@ url_dataset = ""
 url_poster = ""
 url_slides = ""
 url_source = ""
-url_video = "https://www.youtube.com/watch?v=41XKXY--7_E"
+# url_video = "https://www.youtube.com/watch?v=41XKXY--7_E"
 math = true
 highlight = true
 [image]
