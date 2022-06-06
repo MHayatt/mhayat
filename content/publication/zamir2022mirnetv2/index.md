@@ -1,5 +1,5 @@
 +++
-title = "Restormer: Efficient Transformer for High-Resolution Image Restoration"
+title = "Learning Enriched Features for Fast Image Restoration and Enhancement"
 date = "2022-04-13"
 authors = ["S. Zamir","A. Arora","S. Khan","M. Hayat","F. Khan","M. Yang", "L. Shao"]
 tags = []
