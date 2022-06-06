@@ -52,7 +52,7 @@ subtitle = ""
 +++
 
 **I am currently looking for PhD students at Monash University. If you're interested, please drop me an email with your detailed CV.**
-- See our paper [Restormer: Efficient Transformer for High-Resolution Image Restoration] (https://mhayat.netlify.app/publication/zamir2022restormer/) in CVPR 2022.
+- See our paper [Restormer: Efficient Transformer for High-Resolution Image Restoration](https://mhayat.netlify.app/publication/zamir2022restormer/) in CVPR 2022.
 - See our paper [Semantic-Aware Domain Generalized Segmentation](https://mhayat.netlify.app/publication/peng2022semantic/) in CVPR 2022.
 - See our paper [Towards Robust and Reproducible Active Learning Using Neural Networks](https://mhayat.netlify.app/publication/munjal2022torchal/) in CVPR 2022.
 - See our work [Learning Enriched Features for Fast Image Restoration and Enhancement](https://mhayat.netlify.app/publication/zamir2022mirnetv2/) in IEEE TPAMI.
