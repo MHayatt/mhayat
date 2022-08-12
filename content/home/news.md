@@ -55,7 +55,6 @@ subtitle = ""
 - See our paper [Semantic-Aware Domain Generalized Segmentation](https://mhayat.net/publication/peng2022semantic/) in CVPR 2022.
 - Checkout [Learning Enriched Features for Fast Image Restoration and Enhancement](https://mhayat.net/publication/zamir2022mirnetv2/) in IEEE TPAMI.
 - Checkout [Towards Robust and Reproducible Active Learning Using Neural Networks](https://mhayat.net/publication/munjal2022torchal/) in CVPR 2022.
-# - See our work [Learning Enriched Features for Fast Image Restoration and Enhancement](https://mhayat.net/publication/zamir2022mirnetv2/) in IEEE TPAMI.
 - Awarded ARC DECRA Fellowship 2021-2023 $425,613.
 - Received funding from Australian Reserch Council on a Discovery Project 2019-2021 $380,000.
 - See our recent work [Deeply Supervised Discriminative Learning for Adversarial Defense](https://mhayat.net/publication/mustafa2020deeply/) in IEEE TPAMI.
