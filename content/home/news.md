@@ -51,7 +51,7 @@ subtitle = ""
 # **I am currently looking for PhD students at Monash University. If you're interested, please drop me an email with your detailed CV.**
 
 +++
-- I received Deans Award for Excellence in Research by an Early Career Academic.
+- I received Dean's Award for Excellence in Research by an Early Career Academic at FIT, Monash University.
 - Checkout [Restormer: Efficient Transformer for High-Resolution Image Restoration](https://mhayat.net/publication/zamir2022restormer/) in CVPR 2022.
 - See our paper [Semantic-Aware Domain Generalized Segmentation](https://mhayat.net/publication/peng2022semantic/) in CVPR 2022.
 - Checkout [Learning Enriched Features for Fast Image Restoration and Enhancement](https://mhayat.net/publication/zamir2022mirnetv2/) in IEEE TPAMI.
