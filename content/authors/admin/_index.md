@@ -6,7 +6,7 @@ title: Munawar Hayat
 superuser: true
 
 # Role/position
-role: Senior Lecturer, ARC DECRA Fellow  
+role: Principal AI Researcher, Qualcomm. Prev: ARC DECRA Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,9 +18,9 @@ bio: My research interests include Computer Vision, Machine Learning and Deep Le
 
 interests:
 - Computer Vision
-- Deep Learning
+- Generative AI
 - Machine Learning
-- Affective Computing
+
 
 education:
   courses:
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-<p style='text-align: justify;'>  I am a Senior Lecturer and ARC DECRA fellow at Faculty of IT, Monash University, Australia. I completed my PhD in Computer Vision from The University of Western Australia (UWA). My PhD thesis received multiple awards including the prestigious <a href="https://www.postgraduate.uwa.edu.au/students/funding/prizes/robert-street-prize" target="_top">Robert Street Prize</a>. My research interests are in computer vision, machine learning, deep learning, and affective computing. </p>
+<p style='text-align: justify;'>  I am an AI researcher at Qualcomm, previously, I held an academic position as an ARC DECRA fellow at Monash University, Australia. I completed my PhD in Computer Vision from The University of Western Australia (UWA). My research interests are in computer vision, generative AI and machine learning. </p>
