@@ -6,7 +6,7 @@ title: Munawar Hayat
 superuser: true
 
 # Role/position
-role: Principal AI Researcher, Qualcomm. Prev: ARC DECRA Fellow
+role: "Principal AI Researcher, Qualcomm. Prev: ARC DECRA Fellow"
 
 # Organizations/Affiliations
 organizations:
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-<p style='text-align: justify;'>  I am an AI researcher at Qualcomm, previously, I held an academic position as an ARC DECRA fellow at Monash University, Australia. I completed my PhD in Computer Vision from The University of Western Australia (UWA). My research interests are in computer vision, generative AI and machine learning. </p>
+<p style='text-align: justify;'>  "I am an AI researcher at Qualcomm, previously, I held an academic position as an ARC DECRA fellow at Monash University, Australia. I completed my PhD in Computer Vision from The University of Western Australia (UWA). My research interests are in computer vision, generative AI and machine learning." </p>
