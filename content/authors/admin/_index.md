@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-<p style='text-align: justify;'>  I am leading a team working on Multimodal AI at Qualcomm AI research, previously, I was a Professor and ARC DECRA fellow at Monash University, Australia.</p>
+<p style='text-align: justify;'>  I lead the Multimodal AI team at Qualcomm AI Research, advancing the next generation of on-device AI systems. Previously, I was a Professor and ARC DECRA Fellow at Monash University. My research spans computer vision, generative AI, and multimodal learning, with contributions that bridge fundamental research and real-world applications.</p>
