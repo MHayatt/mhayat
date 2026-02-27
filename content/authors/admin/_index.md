@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-<p style='text-align: justify;'>  "I am an AI researcher at Qualcomm, previously, I held an academic position as an ARC DECRA fellow at Monash University, Australia. I completed my PhD in Computer Vision from The University of Western Australia (UWA). My research interests are in computer vision, generative AI and machine learning." </p>
+<p style='text-align: justify;'>  I am leading a team working on Multimodal AI at Qualcomm AI research, previously, I was a Professor and ARC DECRA fellow at Monash University, Australia.</p>
