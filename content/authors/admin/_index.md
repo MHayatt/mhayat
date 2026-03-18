@@ -6,7 +6,7 @@ title: Munawar Hayat
 superuser: true
 
 # Role/position
-role: "Principal AI Researcher, Qualcomm. Prev: ARC DECRA Fellow"
+role: Principal AI Researcher, Qualcomm. Prev ARC DECRA Fellow
 
 # Organizations/Affiliations
 organizations:
